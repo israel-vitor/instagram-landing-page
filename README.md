@@ -1,5 +1,7 @@
 ### Clone da página inicial do Instagram
-[![linkedin](https://img.shields.io/badge/-Israel%20Lima-blue?logo=linkedin&&style=flat-square)](https://www.linkedin.com/in/israel-vitor-lima-86229116a/)
+<a target="_blank" href="https://www.linkedin.com/in/israel-vitor-lima-86229116a/">
+<img src="https://img.shields.io/badge/-Israel%20Lima-blue?logo=linkedin&&style=flat-square"> 
+</a>
 
 Desenvolvido para prática de HTML5 e CSS3 em curso da Digital Innovation One.
 
